@@ -349,7 +349,7 @@ cat backup.sql | docker exec -i blackroad-espocrm-db mysql -u espocrm -p espocrm
 
 ## 📝 License
 
-All components are open source:
+All components are open-access:
 - **Headscale:** MIT
 - **Keycloak:** Apache 2.0
 - **vLLM:** Apache 2.0
@@ -362,3 +362,13 @@ See `~/Desktop/BLACKROAD_FORKIES_CANONICAL_STACK.md` for full license informatio
 **The road to sovereignty starts here.**
 
 *BlackRoad OS Priority Stack v1.0*
+
+---
+
+**Proprietary Software — BlackRoad OS, Inc.**
+
+This software is proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency and collaboration. Commercial use, forking, and redistribution are prohibited without written authorization.
+
+**BlackRoad OS — Pave Tomorrow.**
+
+*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
