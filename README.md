@@ -1,5 +1,13 @@
 # blackroad-priority-stack
 
+> Priority Stack — Self-hosted sovereign infrastructure: Headscale VPN, Keycloak IAM, EspoCRM, vLLM serving. Docker Compose + deploy scripts for Raspberry Pi fleet. (BlackRoad integration)
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
+# blackroad-priority-stack
+
 Priority Stack — Self-hosted sovereign infrastructure: Headscale VPN, Keycloak IAM, EspoCRM, vLLM serving. Docker Compose + deploy scripts for Raspberry Pi fleet. (BlackRoad integration)
 
 **BlackRoad-OS-Inc** — Corporate root — all IP and governance
